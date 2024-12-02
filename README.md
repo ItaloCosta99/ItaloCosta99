@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Italo Costa</h1>
-<h3 align="center">Trainee Programmer at <a href="https://compass.uol/pt/home/" target="_blank" rel="noreferrer">Compass UOL</a></h3>
+<h3 align="center">Fullstack Programmer</h3>
 
 - 🌱 I’m currently learning **Node**, **Nest** and **Express**
 
